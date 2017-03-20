@@ -1,0 +1,12 @@
+.classpath
+bin/cn/yyun/ppt/image/Canvas.class
+bin/cn/yyun/ppt/image/FileExtensionNameFilter.class
+bin/cn/yyun/ppt/image/FileNameComparator.class
+bin/cn/yyun/ppt/image/Image.class
+bin/cn/yyun/ppt/image/layout/DefaultLayout.class
+bin/cn/yyun/ppt/image/layout/ImageProperty.class
+bin/cn/yyun/ppt/image/layout/Layout.class
+bin/cn/yyun/ppt/utils/ImageUtils.class
+bin/test/image/Main.class
+*.project
+*.prefs
